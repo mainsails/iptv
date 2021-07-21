@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC One HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC One HD (720p)
+#EXTINF:-1 tvg-id="BBCOneHD.uk" tvg-name="BBC One HD" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/mainsails/iptv/raw/main/logos/bbc-one-hd-uk.png" group-title="",BBC One HD (720p)
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-name="BBC Two HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Two HD (720p)
+#EXTINF:-1 tvg-id="BBCTwoHD.uk" tvg-name="BBC Two HD" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/mainsails/iptv/raw/main/logos/bbc-two-hd-uk.png" group-title="",BBC Two HD (720p)
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-name="BBC Four HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC Four HD (720p)
+#EXTINF:-1 tvg-id="BBCFourHD.uk" tvg-name="BBC Four HD" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/mainsails/iptv/raw/main/logos/bbc-four-hd-uk.png" group-title="",BBC Four HD (720p)
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",BBC News (720p)
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/mainsails/iptv/raw/main/logos/bbc-news-uk.png" group-title="",BBC News (720p)
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
-#EXTINF:-1 tvg-id="CBBCHD.uk" tvg-name="CBBC HD" tvg-country="UK" tvg-language="English" tvg-logo="" group-title="",CBBC HD (720p)
+#EXTINF:-1 tvg-id="CBBCHD.uk" tvg-name="CBBC HD" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/mainsails/iptv/raw/main/logos/bbc-cbbc-uk.png" group-title="",CBBC HD (720p)
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
