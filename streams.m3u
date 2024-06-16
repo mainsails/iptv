@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="BBC One" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/mainsails/iptv/raw/main/channel-logos/logo-bbc-one.png" group-title="",BBC One
-https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
 
 #EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="BBC Two" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/mainsails/iptv/raw/main/channel-logos/logo-bbc-two.png" group-title="",BBC Two
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
